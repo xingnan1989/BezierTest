@@ -15,6 +15,7 @@
 		77D6BEBC211E9E44003392A1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 77D6BEBB211E9E44003392A1 /* main.m */; };
 		77D6BEC6211E9E44003392A1 /* BezierTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 77D6BEC5211E9E44003392A1 /* BezierTestTests.m */; };
 		77D6BED1211E9E44003392A1 /* BezierTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 77D6BED0211E9E44003392A1 /* BezierTestUITests.m */; };
+		77D6BEDF211E9E84003392A1 /* timg.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 77D6BEDE211E9E84003392A1 /* timg.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		77D6BECC211E9E44003392A1 /* BezierTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BezierTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		77D6BED0211E9E44003392A1 /* BezierTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BezierTestUITests.m; sourceTree = "<group>"; };
 		77D6BED2211E9E44003392A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77D6BEDE211E9E84003392A1 /* timg.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				77D6BEAD211E9E42003392A1 /* AppDelegate.m */,
 				77D6BEAF211E9E42003392A1 /* ViewController.h */,
 				77D6BEB0211E9E43003392A1 /* ViewController.m */,
+				77D6BEDE211E9E84003392A1 /* timg.jpeg */,
 				77D6BEB2211E9E43003392A1 /* Main.storyboard */,
 				77D6BEB5211E9E44003392A1 /* Assets.xcassets */,
 				77D6BEB7211E9E44003392A1 /* LaunchScreen.storyboard */,
@@ -237,6 +240,7 @@
 			files = (
 				77D6BEB9211E9E44003392A1 /* LaunchScreen.storyboard in Resources */,
 				77D6BEB6211E9E44003392A1 /* Assets.xcassets in Resources */,
+				77D6BEDF211E9E84003392A1 /* timg.jpeg in Resources */,
 				77D6BEB4211E9E43003392A1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
